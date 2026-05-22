@@ -2,7 +2,7 @@
 /*
 Plugin Name: magazify-eklenti-m1
 Description: boş eklenti deneme
-Version: 1.0
+Version: 2.0
 Author: Magazify
 * GitHub Plugin URI: https://github.com/adminmagazify/Magazify-Eklenti-M1
 */
